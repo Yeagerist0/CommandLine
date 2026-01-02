@@ -1,0 +1,5 @@
+This is a system log.
+User admin logged in.
+User guest logged in.
+Error: admin permission denied.
+System shutdown.
